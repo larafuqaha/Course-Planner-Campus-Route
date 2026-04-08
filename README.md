@@ -46,7 +46,7 @@ A.Shaheen#Aggad#60
 ## How to Compile and Run
 
 ```bash
-gcc P4_1220071_LaraFoqaha_5.c -o project4
+gcc project4.c -o project4
 ./project4
 ```
 
